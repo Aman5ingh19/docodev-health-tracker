@@ -2,6 +2,12 @@
 
 A full-stack MERN health tracking application with user authentication, health records management, and analytics dashboard.
 
+## 🌐 Live Demo
+
+- **Frontend:** https://docodev-health-tracker.vercel.app
+- **Backend API:** https://docodev-health-tracker.onrender.com
+- **GitHub:** https://github.com/Aman5ingh19/docodev-health-tracker
+
 ## 🚀 Quick Start
 
 ### Prerequisites
