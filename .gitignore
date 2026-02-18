@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+docodev-health-tracker/backend/node_modules/
+docodev-health-tracker/frontend/node_modules/
+
+# Environment variables
+.env
+docodev-health-tracker/backend/.env
+docodev-health-tracker/frontend/.env
+
+# Build outputs
+docodev-health-tracker/frontend/dist/
+docodev-health-tracker/frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Kiro
+.kiro/
+
+# Test files
+test-*.js
+smoke-test.js
