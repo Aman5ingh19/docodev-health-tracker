@@ -19,7 +19,7 @@ app.use(express.urlencoded({ extended: false }));
 // CORS configuration
 app.use(cors({
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://your-vercel-domain.vercel.app'] 
+    ? ['https://docodev-health-tracker.vercel.app'] 
     : ['http://localhost:5173', 'http://localhost:3000'],
   credentials: true
 }));
